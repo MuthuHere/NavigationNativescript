@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Yuvi\\NaviDrawer\\NavigationDrawerTest\\platforms\\tempPlugin\\nativescript_bottom_navigation\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\muthu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\d2bbdfa7aad1f456c9a2f921445e8df0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Yuvi\\NaviDrawer\\NavigationDrawerTest\\platforms\\tempPlugin\\nativescript_bottom_navigation\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\muthu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\d2bbdfa7aad1f456c9a2f921445e8df0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Yuvi\\NaviDrawer\\NavigationDrawerTest\\platforms\\tempPlugin\\nativescript_bottom_navigation\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\muthu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\d2bbdfa7aad1f456c9a2f921445e8df0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Yuvi\\NaviDrawer\\NavigationDrawerTest\\platforms\\tempPlugin\\nativescript_bottom_navigation\\build\\intermediates\\res\\merged\\release\\layout-v21\\bottom_navigation_small_item.xml",
+        "source": "C:\\Users\\muthu\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.1.0.aar\\302c3fe8162ea284e6260814851ac368\\res\\layout-v21\\bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "F:\\Yuvi\\NaviDrawer\\NavigationDrawerTest\\platforms\\tempPlugin\\nativescript_bottom_navigation\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\muthu\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\d2bbdfa7aad1f456c9a2f921445e8df0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Yuvi\\NaviDrawer\\NavigationDrawerTest\\platforms\\tempPlugin\\nativescript_bottom_navigation\\build\\intermediates\\res\\merged\\release\\layout-v21\\bottom_navigation_item.xml",
+        "source": "C:\\Users\\muthu\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.1.0.aar\\302c3fe8162ea284e6260814851ac368\\res\\layout-v21\\bottom_navigation_item.xml"
+    }
+]

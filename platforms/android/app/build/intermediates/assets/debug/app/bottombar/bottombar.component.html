@@ -1,0 +1,18 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd"
+      xmlns:bottomNav="nativescript-bottom-navigation"
+      loaded="pageLoaded"
+      class="page">
+    <GridLayout columns="*"
+                rows="*, auto">
+        <StackLayout row="0">
+            <Label text="content"></Label>
+        </StackLayout>
+        <bottomNav:BottomNavigation tabs="{{ tabs }}"
+                                    activeColor="green"
+                                    inactiveColor="red"
+                                    backgroundColor="black"
+                                    keyLineColor="black"
+                                    loaded="bottomNavigationLoaded"
+                                    row="1"></bottomNav:BottomNavigation>
+    </GridLayout>
+</Page>
